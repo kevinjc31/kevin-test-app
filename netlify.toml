@@ -1,0 +1,6 @@
+[[redirects]]
+  from = "/test-plg-app/*"
+  to = "https://docutest-a.akamaihd.net/integration/dotcom-sample-app/0.0.1-4f7c3d0/:splat"
+  status = 200
+  force = true
+  headers = {X-From = "Netlify"}

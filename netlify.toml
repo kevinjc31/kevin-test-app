@@ -1,6 +1,6 @@
 [[redirects]]
   from = "/dotcom-sample-app/*"
-  to = "https://docutest-a.akamaihd.net/integration/1ds-ssg/dotcom-sample-app/0.0.1-6a7271a"
+  to = "https://docutest-a.akamaihd.net/integration/1ds-ssg/dotcom-sample-app/0.0.1-6a7271a/:splat"
   status = 200
   force = true
   headers = {X-From = "Netlify"}
